@@ -19,6 +19,7 @@
         <module>divoc-external-plugin</module>
         <module>sample-external-plugin-2</module>
         <module>mosip-external-plugin</module>
+        <module>credential-external-plugin</module>
     </modules>
     <dependencies>
         <dependency>
